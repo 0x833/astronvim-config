@@ -1,4 +1,4 @@
-# AstroNvim User Configuration Example
+# 0x833 AstroNvim config
 
 A user configuration template for [AstroNvim](https://github.com/AstroNvim/AstroNvim)
 
